@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Please follow the steps below to reproduce the following error in the browser console:  
 
-![Error](screenshot-1.png?raw=true)
+![Error](screenshot-01.png?raw=true)
 
 1. Clone this repo.
 2. `npm install -g @angular/cli`
